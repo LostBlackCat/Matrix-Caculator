@@ -1,2 +1,2 @@
 # Matrix-Calculator
-MFC windows-based program for a Matrix Caculator
+MFC windows-based program for a Matrix Calculator
